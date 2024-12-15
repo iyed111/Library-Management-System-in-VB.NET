@@ -1,0 +1,17 @@
+C:\Users\HP\.dotnet\library\bin\Debug\net8.0-windows\library.exe
+C:\Users\HP\.dotnet\library\bin\Debug\net8.0-windows\library.deps.json
+C:\Users\HP\.dotnet\library\bin\Debug\net8.0-windows\library.runtimeconfig.json
+C:\Users\HP\.dotnet\library\bin\Debug\net8.0-windows\library.dll
+C:\Users\HP\.dotnet\library\bin\Debug\net8.0-windows\library.pdb
+C:\Users\HP\.dotnet\library\obj\Debug\net8.0-windows\library.Form1.resources
+C:\Users\HP\.dotnet\library\obj\Debug\net8.0-windows\library.Form2.resources
+C:\Users\HP\.dotnet\library\obj\Debug\net8.0-windows\library.vbproj.GenerateResource.cache
+C:\Users\HP\.dotnet\library\obj\Debug\net8.0-windows\library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\.dotnet\library\obj\Debug\net8.0-windows\library.AssemblyInfoInputs.cache
+C:\Users\HP\.dotnet\library\obj\Debug\net8.0-windows\library.AssemblyInfo.vb
+C:\Users\HP\.dotnet\library\obj\Debug\net8.0-windows\library.vbproj.CoreCompileInputs.cache
+C:\Users\HP\.dotnet\library\obj\Debug\net8.0-windows\library.dll
+C:\Users\HP\.dotnet\library\obj\Debug\net8.0-windows\refint\library.dll
+C:\Users\HP\.dotnet\library\obj\Debug\net8.0-windows\library.pdb
+C:\Users\HP\.dotnet\library\obj\Debug\net8.0-windows\library.genruntimeconfig.cache
+C:\Users\HP\.dotnet\library\obj\Debug\net8.0-windows\ref\library.dll
